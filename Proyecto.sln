@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sistema", "sistema\sistema.csproj", "{ED304E77-5C25-4885-99FA-33C227390DD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{CF3BDA9C-D957-4E43-AE09-BF998CCCEA90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED304E77-5C25-4885-99FA-33C227390DD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED304E77-5C25-4885-99FA-33C227390DD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED304E77-5C25-4885-99FA-33C227390DD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED304E77-5C25-4885-99FA-33C227390DD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF3BDA9C-D957-4E43-AE09-BF998CCCEA90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF3BDA9C-D957-4E43-AE09-BF998CCCEA90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF3BDA9C-D957-4E43-AE09-BF998CCCEA90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF3BDA9C-D957-4E43-AE09-BF998CCCEA90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

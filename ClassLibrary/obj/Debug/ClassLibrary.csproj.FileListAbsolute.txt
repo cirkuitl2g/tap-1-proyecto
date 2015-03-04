@@ -1,0 +1,6 @@
+C:\Users\ULP\Desktop\Proyecto TAP 1\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\ULP\Desktop\Proyecto TAP 1\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\ULP\Desktop\Proyecto TAP 1\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\ULP\Desktop\Proyecto TAP 1\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\ULP\Desktop\Proyecto TAP 1\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\ULP\Desktop\Proyecto TAP 1\ClassLibrary\bin\Debug\ClassLibrary.dll.config
