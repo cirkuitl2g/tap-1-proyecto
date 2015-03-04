@@ -48,7 +48,6 @@ namespace ClassLibrary
 
             br.Close();
             fs.Close();
-
             return ID;
         }
         public static int CantidadCargada(String Nombre_Completo)
